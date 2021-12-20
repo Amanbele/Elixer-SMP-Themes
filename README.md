@@ -2,7 +2,7 @@
 A themepack made by me for Elixer SMP. dsc.gg/elixermc
 
 ### Chrome Theme
-Click [Download](https://github.com/Amanbele/Elixer-SMP-Themes/releases) to download the theme.
+Click [Download](https://github.com/Amanbele/Elixer-SMP-Themes/releases) to download the theme. **Please don't download/ load this one it looks like poop. I'll change it later**
 
 ### Windows Theme
 Click [Download](https://github.com/Amanbele/Elixer-SMP-Themes/releases) to download the theme.
